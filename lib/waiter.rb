@@ -25,7 +25,7 @@ def meals
 end
 
 def best_tipper
-  binding.pry
+  # binding.pry
 end
 
 end
